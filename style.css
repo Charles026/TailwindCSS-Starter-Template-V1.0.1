@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+header {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.work-item {
+    height: 54rem;
+    font-family: 'Noto Serif SC', serif;
+}
+
+.footer {
+    height: 20rem;
+    font-family: 'Noto Serif SC', serif;
+}
+
