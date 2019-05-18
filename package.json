@@ -1,11 +1,11 @@
 {
-    "name": "TailwindStarterTemplate",
+    "name": "CharlesWeb",
     "version": "1.0.0",
-    "description": "Tailwind Starter Template",
+    "description": "charles website",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tailwindtoolbox/StarterTemplate.git"
+        "url": " https://Charles026@github.com/Charles026/charlesWebsite.git"
     },
     "main": "postcss.config.js",
     "dependencies": {
